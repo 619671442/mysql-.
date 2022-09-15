@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Id": "01",
+    "TaskName": "定时检查主从同步",
+    "AssemblyPath": "TaskExecute.dll",
+    "Namespace": "TaskExecute.CheckAsync",
+    "Method": "Execute",
+    //任务类型:间隔指定秒执行一次
+    "Type": 1,
+    //间隔秒数
+    "IntervalTime": "300",
+    "ExcuteTime": "",
+    //配置从库信息
+    "Parameters": {
+      "Server": "127.0.0.1",
+      "DataBase": "test",
+      "UserID": "root",
+      "Password":"123456",
+      "Port": "3306",
+      "Charset": "utf8"
+    }
+  }
+]

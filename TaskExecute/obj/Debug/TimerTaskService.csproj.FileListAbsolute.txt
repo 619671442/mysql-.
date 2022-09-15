@@ -1,0 +1,6 @@
+D:\Code\SchedulerDemo\TimerTaskService\bin\Debug\TimerTaskService.dll
+D:\Code\SchedulerDemo\TimerTaskService\bin\Debug\TimerTaskService.pdb
+D:\Code\SchedulerDemo\TimerTaskService\obj\Debug\TimerTaskService.csproj.AssemblyReference.cache
+D:\Code\SchedulerDemo\TimerTaskService\obj\Debug\TimerTaskService.csproj.CoreCompileInputs.cache
+D:\Code\SchedulerDemo\TimerTaskService\obj\Debug\TimerTaskService.dll
+D:\Code\SchedulerDemo\TimerTaskService\obj\Debug\TimerTaskService.pdb
